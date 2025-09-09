@@ -12,7 +12,7 @@ hw01/
 │ └── processing.txt
 │
 │── results/ # Kết quả xử lý
-│ ├── hw01.doc
+│ ├── hw01.doc # Hình chụp các kết quả thu được
 │ ├── task1_J.png
 │ ├── task1_K.png
 │ ├── task2_lenagray_negative.jpg
